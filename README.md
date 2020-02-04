@@ -114,7 +114,7 @@ Coursera: https://www.coursera.org/learn/machine-learning
 
 University of Washington:
 Computer Vision: https://pjreddie.com/courses/computer-vision/
-(Also in YouTube)
+(Also on YouTube)
 
 Reinforcement Learnig (teach a computer to play video games)
 https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
