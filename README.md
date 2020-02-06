@@ -121,6 +121,8 @@ https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
 
 NLP: https://www.youtube.com/watch?v=hyT-BzLyVdU&list=PLDcmCgguL9rxTEz1Rsy6x5NhlBjI8z3Gz
 
+Advanced Deep Learning & Reinforcement Learning from DeepMind
+https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&index=1
 ## Brilliant:
 
 https://brilliant.org/courses/#/computer-science/foundational-computer-science
