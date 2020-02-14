@@ -105,6 +105,10 @@ https://www.youtube.com/watch?v=sPEEV8Xih20&list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nr
 
 
 ## Free Online Coures:
+MIT:
+https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf
+
+https://deeplearning.mit.edu/
 
 Harvard: 
 http://cs109.github.io/2015/pages/videos.html
