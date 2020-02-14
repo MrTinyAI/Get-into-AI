@@ -21,6 +21,9 @@ https://experiments.withgoogle.com/ai/drum-machine/view/
 
 #### Images:
 
+style transfer online demo
+https://deepart.io/
+
 This Person does not exist (auto generated faces )
 https://thispersondoesnotexist.com/
 
