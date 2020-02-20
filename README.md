@@ -106,6 +106,9 @@ https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 Coding Train "Intelligence and Learning" Playlist
 https://www.youtube.com/watch?v=sPEEV8Xih20&list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX
 
+Stanford lectures:
+https://www.youtube.com/user/stanfordonline/playlists
+
 
 ## Free Online Coures:
 MIT:
@@ -136,6 +139,7 @@ https://brilliant.org/courses/#/computer-science/foundational-computer-science
 
 Courses on applied computer science :
 - Search Engines
+- Introduction to Neural Networks
 - Artificial Neural Networks
 - Machine Learning
 and lots of other great courses ;D
