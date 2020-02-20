@@ -103,6 +103,11 @@ https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 
 (more coming soon)
 
+
+Machine Learning & Deep Learning Fundamentals: https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU
+
+3Blue1Brown(the math behind NNs): https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
 Coding Train "Intelligence and Learning" Playlist
 https://www.youtube.com/watch?v=sPEEV8Xih20&list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX
 
