@@ -124,8 +124,11 @@ https://deeplearning.mit.edu/
 Harvard: 
 http://cs109.github.io/2015/pages/videos.html
 
-Stanford:
+Stanford,
 Coursera: https://www.coursera.org/learn/machine-learning 
+
+Stanford, 
+NLP: https://www.youtube.com/watch?v=hyT-BzLyVdU&list=PLDcmCgguL9rxTEz1Rsy6x5NhlBjI8z3Gz
 
 University of Washington:
 Computer Vision: https://pjreddie.com/courses/computer-vision/
@@ -134,7 +137,8 @@ Computer Vision: https://pjreddie.com/courses/computer-vision/
 Reinforcement Learnig (teach a computer to play video games)
 https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
 
-NLP: https://www.youtube.com/watch?v=hyT-BzLyVdU&list=PLDcmCgguL9rxTEz1Rsy6x5NhlBjI8z3Gz
+Oxford/DeepMine:
+https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
 
 Advanced Deep Learning & Reinforcement Learning from DeepMind
 https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&index=1
