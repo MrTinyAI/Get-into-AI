@@ -36,24 +36,27 @@ http://ganpaint.io/demo/?project=church
 A storytelling machine that automatically generates synthetic images as you write new words and sentences. Enjoy!
 https://experiments.runwayml.com/generative_engine/
 
-Deep Dream:
+Deep Dream
 https://deepdreamgenerator.com/
 
 Image-to-Image Demo
 https://affinelayer.com/pixsrv/
 
+Growing Neural Cellular Automata (interactive Paper)
+https://distill.pub/2020/growing-ca/
+
 #### Games:
 
-Drawing Game:
+Drawing Game
 https://quickdraw.withgoogle.com/#
 
-Which face is real:
+Which face is real
 http://www.whichfaceisreal.com/index.php
 
-BoxCar2D:
+BoxCar2D
 http://boxcar2d.com/
 
-Play with Neural Networks:
+Play with Neural Networks
 https://playground.tensorflow.org
 
 #### Language (NLP (natural language processing))
