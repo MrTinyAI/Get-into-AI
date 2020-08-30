@@ -76,6 +76,9 @@ https://research.google.com/semantris/
 
 ## Here are some YouTube channels that can teach you AI programming or show you what AI is capable of:
 
+AlphaGo - The Movie
+https://www.youtube.com/watch?v=WXuK6gekU1Y
+
 The Age of A.I.:
 https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc
 
