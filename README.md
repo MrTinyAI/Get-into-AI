@@ -3,7 +3,7 @@
 With this examples you can get an intuition about what AI could do today and were it is heading.
 
 Also I proved some starting point to build such system your self. When I started me journey
-into AI about a your ago I struggled on were to start, because I thought AI is such advanced
+into AI about a year ago I struggled on were to start, because I thought AI is such advanced
 topic that only scientists could do it. With this Repo I want to show you that everybody has the possibility so build such systems. 
  
 
