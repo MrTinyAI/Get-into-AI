@@ -3,7 +3,7 @@
 With this examples you can get an intuition about what AI could do today and were it is heading.
 
 Also I proved some starting point to build such system your self. When I started me journey
-into AI about a year ago I struggled on were to start, because I thought AI is such advanced
+into AI about one and a half years ago I struggled on were to start, because I thought AI is such advanced
 topic that only scientists could do it. With this Repo I want to show you that everybody has the possibility so build such systems. 
  
 
@@ -92,9 +92,6 @@ Also check out https://pythonprogramming.net/machine-learning-tutorials/
 The Coding Train:
 https://www.youtube.com/user/shiffman
 
-Two Minute Papers:
-https://www.youtube.com/user/keeroyz
-
 Robert Miles(also on computerphile)
 https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg
 
@@ -106,6 +103,24 @@ https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A
 
 Siraj Raval
 https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
+
+
+#### Latest papers explained:
+Two Minute Papers:
+https://www.youtube.com/user/keeroyz
+
+Yannic Kilcher
+https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew
+
+Henry AI Labs
+https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw
+
+Machine Learning Dojo with Tim Scarfe
+https://www.youtube.com/channel/UCXvHuBMbgJw67i5vrMBBobA
+
+Machine Learning Street Talk
+https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ
+
 
 
 #### PlayLists:
@@ -161,6 +176,29 @@ Courses on applied computer science :
 - Artificial Neural Networks
 - Machine Learning
 and lots of other great courses ;D
+
+## Aubile
+HelloWorld Hannah Fray
+
+Life 3.0 Max Tegmark
+
+Superintelligence Nick Bostrom
+
+AI Superpowers by Kai-Fu Lee
+
+## Podcasts (On spotify)
+Practical AI
+
+Lex Fridman Podcast
+
+Machine Learning Street Talk
+
+## Books
+TinyML by Pete Warden & Daniel Situnayake
+
+Practical Deep Learning for Cloud, Mobile & Edge by Anirudh Koul, Siddha Ganju & Meher Kasam
+
+Hands-On Machine Learning with Scikit-Lrean, Keras & TensorFlow by Aurelien Geron
 
 ## Repos:
 (more coming soon)
